@@ -1,0 +1,2 @@
+Projeto desensolvido na DIO (Digital Innovation One Inc.), com o instrutor Rafael Galleanis, a partir do curso "Construindo Páginas para a Internet com o Bootstraop) para o Bootcamp Take Blip Web Developer.
+Neste curso aprendi sobre o Bootstrap, como utilizá-lo em uma página WEB, como criar containers personalizados, como trabalhar com imagens dentro de containers e como criar lista de navegação dentro de containers.

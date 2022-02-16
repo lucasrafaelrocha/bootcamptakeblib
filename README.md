@@ -1,1 +1,1 @@
-# bootcamptakeblib
+Projetos desenvolvidos para o Bootcamp Take Blip Web Developer, oferecido pela Digital Innovation One Inc. (DIO).

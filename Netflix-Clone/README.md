@@ -1,0 +1,1 @@
+Projeto desensolvido na DIO (Digital Innovation One Inc.), com o instrutor Felipe Aguiar, para o Bootcamp Take Blip Web Developer, onde o desafio foi recriar a interface do principal site de streaming mundial (Neftlix) utilizando tecnologias como HTML5, CSS3 e JavaScript. Nesse projeto também foi utilizado JQuery.
